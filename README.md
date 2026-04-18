@@ -49,6 +49,3 @@ This project mainly investigates the relationship between:
 
 ## Project Outcome
 The analysis shows how selected network traffic features can help distinguish normal activity from potential cyber attacks. It also demonstrates the importance of proper preprocessing and feature analysis before building more advanced detection models.
-
-## Disclaimer
-This project was completed as part of an academic assignment. It is intended for learning and analytical purposes.
